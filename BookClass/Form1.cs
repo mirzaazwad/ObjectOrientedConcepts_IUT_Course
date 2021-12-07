@@ -97,6 +97,7 @@ namespace BookClass
             {
                 if (study.getBookID() == BorrowStudyBook.Text)
                 {
+                    found = true;
                     if (study.getQuantity() == 0)
                     {
                         MessageBox.Show("Book Out of Stock");
@@ -104,12 +105,15 @@ namespace BookClass
                     }
                     userStudyList.Add(study);
                     study.decrement();
-                    if (!found)
-                    {
-                        MessageBox.Show("Book Not found");
-                    }
+                    
                 }
             }
+            if (!found)
+            {
+                MessageBox.Show("Book Not found");
+                return;
+            }
+            MessageBox.Show("Study Book Borrowed");
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -134,8 +138,17 @@ namespace BookClass
         private void AddStudyBook_Click(object sender, EventArgs e)
         {
             StudyBook study=new StudyBook(StudyID.Text,StudyTitle.Text,StudyAuthor.Text,StudyPublisher.Text,Convert.ToInt32(StudyQuantity.Text),StudyISBN.Text,StudyGenre.Text);
-            MessageBox.Show("Study Book Added");
+            foreach(StudyBook dummy_study in studyList)
+            {
+                if (dummy_study.getBookID() == study.getBookID())
+                {
+                    MessageBox.Show("Book Already in List, increasing in quantity");
+                    study.increment();
+                    return;
+                }
+            }
             studyList.Add(study);
+            MessageBox.Show("Study Book Added");
         }
 
         private void AddResearchArticle_Click(object sender, EventArgs e)
@@ -170,6 +183,15 @@ namespace BookClass
                 ConferenceOrJournal = false;
             }
             ResearchArticle researchArticle = new ResearchArticle(ResearchID.Text, ResearchTitle.Text, ResearchAuthor.Text, ResearchPublisher.Text, Convert.ToInt32(ResearchQuantity.Text),DOI.Text, date,ConferenceOrJournal);
+            foreach(ResearchArticle research in researchList)
+            {
+                if (research.getResearchID() == researchArticle.getResearchID())
+                {
+                    MessageBox.Show("Research Article Already Present, incrementing");
+                    researchArticle.increment();
+                    return;
+                }
+            }
             researchList.Add(researchArticle);
             MessageBox.Show("Research Article Added");
         }
@@ -189,12 +211,14 @@ namespace BookClass
                     }
                     userResearchList.Add(research);
                     research.decrement();
-                    if (!found)
-                    {
-                        MessageBox.Show("Research Article Not Found");
-                    }
                 }
             }
+            if (!found)
+            {
+                MessageBox.Show("Research Article Not Found");
+                return;
+            }
+            MessageBox.Show("Research Article Borrowed");
         }
 
         private void ShowResearchArticle_SelectedIndexChanged(object sender, EventArgs e)

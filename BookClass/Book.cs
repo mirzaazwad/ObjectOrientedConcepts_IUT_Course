@@ -28,7 +28,15 @@ namespace BookClass{
         }
         public string getinfo()
         {
-            return this.ID + "\t" + this.Title + "\t" + this.Author+"\t"+Convert.ToString(this.Quantity);
+            return this.ID + "\t" + this.Title + "\t" + this.Author+"\t"+this.Publisher+"\t"+Convert.ToString(this.Quantity);
+        }
+        public void increment()
+        {
+            this.Quantity++;
+        }
+        public void decrement()
+        {
+            this.Quantity--;
         }
     }
 }
