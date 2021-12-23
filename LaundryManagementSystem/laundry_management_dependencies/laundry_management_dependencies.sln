@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laundry_management_dependencies", "laundry_management_dependencies.csproj", "{925DD487-5E5C-4327-8E3C-4593281242FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925DD487-5E5C-4327-8E3C-4593281242FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925DD487-5E5C-4327-8E3C-4593281242FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925DD487-5E5C-4327-8E3C-4593281242FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925DD487-5E5C-4327-8E3C-4593281242FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6650D6FD-0F85-4CDA-AD46-1DDD15791798}
+	EndGlobalSection
+EndGlobal
