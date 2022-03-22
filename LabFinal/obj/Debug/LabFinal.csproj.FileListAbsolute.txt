@@ -1,0 +1,11 @@
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.IUTRPS.resources
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.Properties.Resources.resources
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\LabFinal\bin\Debug\LabFinal.exe.config
+C:\Users\CSE\Desktop\LabFinal\bin\Debug\LabFinal.exe
+C:\Users\CSE\Desktop\LabFinal\bin\Debug\LabFinal.pdb
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.exe
+C:\Users\CSE\Desktop\LabFinal\obj\Debug\LabFinal.pdb
