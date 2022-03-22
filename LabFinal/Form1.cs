@@ -58,7 +58,7 @@ namespace LabFinal
                 double final = Convert.ToDouble(dummy_student[7]);
                 double viva = Convert.ToDouble(dummy_student[8]);
                 double attendance = Convert.ToDouble(dummy_student[9]);
-                Student student = new Student(Name,ID,quiz1,quiz2,quiz3,quiz4,mid,final,viva,attendance) ;
+                Student student = new Student(ID,Name,quiz1,quiz2,quiz3,quiz4,mid,final,viva,attendance) ;
                 Utilities.studentList.Add(student);
               
             }
