@@ -1,0 +1,15 @@
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\bin\Debug\net6.0\EventsAndEventHandling.exe
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\bin\Debug\net6.0\EventsAndEventHandling.deps.json
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\bin\Debug\net6.0\EventsAndEventHandling.runtimeconfig.json
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\bin\Debug\net6.0\EventsAndEventHandling.dll
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\bin\Debug\net6.0\ref\EventsAndEventHandling.dll
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\bin\Debug\net6.0\EventsAndEventHandling.pdb
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.csproj.AssemblyReference.cache
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.AssemblyInfoInputs.cache
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.AssemblyInfo.cs
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.csproj.CoreCompileInputs.cache
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.dll
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\ref\EventsAndEventHandling.dll
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.pdb
+E:\Documents\Resources\Software Engineering\OOC\Events and Event Handling\EventsAndEventHandling\obj\Debug\net6.0\EventsAndEventHandling.genruntimeconfig.cache
