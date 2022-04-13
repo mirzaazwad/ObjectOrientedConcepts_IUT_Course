@@ -2,26 +2,6 @@
 using System.Threading;
 namespace DelegatesAndEvents
 {
-    public abstract class gullu
-    {
-        public abstract string gulluCry();
-    }
-    public partial class Something:gullu
-    {
-        private int something;
-        public Something()
-        {
-
-        }
-        public override string gulluCry()
-        {
-            Console.WriteLine("Waah Waah");
-            return "Waah Waah";
-        }
-
-
-
-    }
     public class Video
     {
         public string title;
@@ -34,19 +14,6 @@ namespace DelegatesAndEvents
     public class VideoArgs : EventArgs
     {
         public Video Video { get; set; }
-    }
-    public partial class Something
-    {
-        public Something(int something)
-        {
-            this.something = something;
-        }
-
-        public int Some
-        {
-            get { return something; }
-            set { something = value; }
-        }
     }
     public class VideoEncoder
     {
@@ -62,7 +29,7 @@ namespace DelegatesAndEvents
             OnVideoEncoded(video);
         }
 
-        public void OnVideoEncoded(Video video)
+        protected virtual void OnVideoEncoded(Video video)
         {
             if (VideoEncoded != null){
                 VideoEncoded(this,new VideoArgs(){Video= video});//Instead of new VideoArgs()... just use EventArgs instead
@@ -101,9 +68,6 @@ namespace DelegatesAndEvents
             bullshit.VideoEncoded += mailService.OnVideoEncoded;
             bullshit.VideoEncoded+=smsService.OnVideoEncoded;//Multicasting
             bullshit.Encode(video);//Note: Make sure the delegate is called after all the required methods are casted
-            Something bulbuli = new Something(21);
-            Console.WriteLine(bulbuli.Some);
-            Console.WriteLine(bulbuli.gulluCry());
             Console.ReadKey();
 
 
