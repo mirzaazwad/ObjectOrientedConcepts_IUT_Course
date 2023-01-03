@@ -1,6 +1,0 @@
-E:\Documents\laundry_management_dependencies\bin\Debug\laundry_management_dependencies.dll
-E:\Documents\laundry_management_dependencies\bin\Debug\laundry_management_dependencies.pdb
-E:\Documents\laundry_management_dependencies\obj\Debug\laundry_management_dependencies.csproj.AssemblyReference.cache
-E:\Documents\laundry_management_dependencies\obj\Debug\laundry_management_dependencies.csproj.CoreCompileInputs.cache
-E:\Documents\laundry_management_dependencies\obj\Debug\laundry_management_dependencies.dll
-E:\Documents\laundry_management_dependencies\obj\Debug\laundry_management_dependencies.pdb

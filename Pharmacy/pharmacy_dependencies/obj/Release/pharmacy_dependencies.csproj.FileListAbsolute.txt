@@ -1,6 +1,0 @@
-C:\Users\Mirza Mohammad Azwad\source\repos\pharmacy_dependencies\bin\Release\pharmacy_dependencies.dll
-C:\Users\Mirza Mohammad Azwad\source\repos\pharmacy_dependencies\bin\Release\pharmacy_dependencies.pdb
-C:\Users\Mirza Mohammad Azwad\source\repos\pharmacy_dependencies\obj\Release\pharmacy_dependencies.csproj.AssemblyReference.cache
-C:\Users\Mirza Mohammad Azwad\source\repos\pharmacy_dependencies\obj\Release\pharmacy_dependencies.csproj.CoreCompileInputs.cache
-C:\Users\Mirza Mohammad Azwad\source\repos\pharmacy_dependencies\obj\Release\pharmacy_dependencies.dll
-C:\Users\Mirza Mohammad Azwad\source\repos\pharmacy_dependencies\obj\Release\pharmacy_dependencies.pdb

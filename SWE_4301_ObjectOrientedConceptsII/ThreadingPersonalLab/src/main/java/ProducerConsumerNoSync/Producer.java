@@ -1,0 +1,31 @@
+package ProducerConsumerNoSync;
+
+import java.lang.*;
+import java.util.*;
+public class Producer implements Runnable {
+  private final static Random generator = new Random();
+  private final Buffer sharedLocation;
+
+  public Producer(Buffer shared) {
+    sharedLocation = shared;
+  }
+
+  public void run()
+  {
+    int sum=0;
+    for(int count=1;count<=10;count++){
+      try{
+        Thread.sleep(300);
+        sharedLocation.set(count);
+        sum+=count;
+        System.out.printf("\t%2d\n",sum);
+      }
+      catch(InterruptedException e)
+      {
+        e.printStackTrace();
+      }
+      System.out.println("\nProducer done producing \n Terminating Producer");
+    }
+  }
+
+}

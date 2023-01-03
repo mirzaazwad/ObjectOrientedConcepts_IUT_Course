@@ -1,0 +1,15 @@
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\bin\Debug\net6.0\lab09MirzaMohammadAzwad21.exe
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\bin\Debug\net6.0\lab09MirzaMohammadAzwad21.deps.json
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\bin\Debug\net6.0\lab09MirzaMohammadAzwad21.runtimeconfig.json
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\bin\Debug\net6.0\lab09MirzaMohammadAzwad21.dll
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\bin\Debug\net6.0\ref\lab09MirzaMohammadAzwad21.dll
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\bin\Debug\net6.0\lab09MirzaMohammadAzwad21.pdb
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.AssemblyInfoInputs.cache
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.AssemblyInfo.cs
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.dll
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\ref\lab09MirzaMohammadAzwad21.dll
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.pdb
+C:\Users\CSE\Desktop\200042102_OOC\lab09MirzaMohammadAzwad21\obj\Debug\net6.0\lab09MirzaMohammadAzwad21.genruntimeconfig.cache

@@ -1,6 +1,0 @@
-E:\Documents\Lab07_dependecies\bin\Debug\Lab07_dependecies.dll
-E:\Documents\Lab07_dependecies\bin\Debug\Lab07_dependecies.pdb
-E:\Documents\Lab07_dependecies\obj\Debug\Lab07_dependecies.csproj.AssemblyReference.cache
-E:\Documents\Lab07_dependecies\obj\Debug\Lab07_dependecies.csproj.CoreCompileInputs.cache
-E:\Documents\Lab07_dependecies\obj\Debug\Lab07_dependecies.dll
-E:\Documents\Lab07_dependecies\obj\Debug\Lab07_dependecies.pdb

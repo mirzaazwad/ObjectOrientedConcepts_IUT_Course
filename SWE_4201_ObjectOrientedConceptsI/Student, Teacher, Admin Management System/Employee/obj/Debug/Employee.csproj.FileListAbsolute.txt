@@ -1,0 +1,11 @@
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\Mirza Mohammad Azwad\source\repos\Employee\Employee\obj\Debug\Employee.UMS.resources
