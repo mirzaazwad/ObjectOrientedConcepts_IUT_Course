@@ -1,3 +1,3 @@
 # Object Oriented Concepts
 
-This repository contains the course contents of Object Oriented Concepts I a.k.a SWE 4201 of the second semester and Object Oriented Concepts II of the third semester of BSc in Software Engineering Program, Computer Science and Engineering Department at Islamic University of Technology, Board Bazar, Gazipur, Dhaka, Bangladesh.
+This repository outlines the courses related to Object Oriented Concepts(OOC) at IUT. The courses include OOC-I, OOC-II, and Design Patterns conducted by Asst. Prof. Tasnim Ahmed Sir, Asst. Prof. Jubair Ibna Mostofa and Asst. Prof. Lutfun Nahar Lota respectively.
